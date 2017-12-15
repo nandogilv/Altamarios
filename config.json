@@ -1,0 +1,19 @@
+{
+    "app_id" : "com.moodlemobile.altamar.educativa.push",
+    "appname": "Plataforma educativa de Altamar",
+    "desktopappname": "Moodle Desktop",
+    "versioncode" : "2021",
+    "versionname" : "1.0.0",
+    "cache_expiration_time" : 300000,
+    "default_lang" : "en",
+    "languages": {"ca": "Català", "es": "Español"},
+    "wsservice" : "moodle_mobile_app",
+    "wsextservice" : "local_mobile",
+    "gcmpn": "694767596569",
+    "customurlscheme": "moodlemobile",
+    "siteurl": "https://plataformaedu.altamar.es",
+    "multisitesdisplay": "select",
+    "skipssoconfirmation": "false",
+    "forcedefaultlanguage": "false",
+    "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
+}
